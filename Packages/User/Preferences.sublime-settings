@@ -1,0 +1,20 @@
+{
+	"caret_extra_width": 1,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/SublimeLinter/Afterglow-monokai (SL).tmTheme",
+	"font_face": "Source Code Pro",
+	"font_options":
+	[
+		"no_round"
+	],
+	"font_size": 13,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tabs_medium": false,
+	"tabs_small": true,
+	"theme": "Afterglow-green.sublime-theme",
+	"word_wrap": false
+}

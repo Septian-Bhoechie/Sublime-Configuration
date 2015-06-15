@@ -1,0 +1,30 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Blade Snippets",
+		"Blade Spacer",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Emmet",
+		"GitGutter",
+		"Highlight Whitespaces",
+		"JavaScript Completions",
+		"jQuery",
+		"jQuery Snippets pack",
+		"Laravel 4 Snippets",
+		"Laravel Blade Highlighter",
+		"Package Control",
+		"phpfmt",
+		"PhpSimpleRefactor",
+		"Predawn",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"SublimeLinter",
+		"Terminal",
+		"Theme - Afterglow",
+		"TrailingSpaces"
+	]
+}

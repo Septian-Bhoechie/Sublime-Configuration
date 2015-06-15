@@ -1,0 +1,8 @@
+{
+	"indent_with_space": 4,
+	"passes":
+	[
+	],
+	"psr2": true,
+	"version": 2
+}

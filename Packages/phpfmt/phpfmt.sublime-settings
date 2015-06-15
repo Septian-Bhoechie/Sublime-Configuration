@@ -1,0 +1,5 @@
+{
+//"version": 2,
+ "php_bin": "c:/xampp/php/php.exe",
+ "format_on_save":true,
+}
